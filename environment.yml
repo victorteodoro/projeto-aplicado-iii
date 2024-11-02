@@ -1,0 +1,14 @@
+name: proj-aplicado-iii
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - pip
+  - pandas
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - ipykernel
